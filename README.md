@@ -24,7 +24,8 @@ O ultimo passo foi efetuar a diagramação do e-book no Canva.com, no formato de
 Próximo passo será publicar este livro em sites de store books. Alguma indicação?
 
 ## 🚀 Resultados
-no link temos o e-book gerado (em formato pdf)
+[Link para o E-BOOK](/ebook/Os Sapatos Magicos de Mila.pdf)
+
 
 ## 💭 Reflexão (Opcional)
 O desafio foi ótimo para pesquisar e aprender mais sobre as IA`s generativas.
