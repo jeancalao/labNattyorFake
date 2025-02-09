@@ -1,4 +1,4 @@
-# E-BOOk Livro Infantil - "Os Sapataos Mágicos de Mila"  
+# E-BOOk Livro Infantil - "Os Sapatos Mágicos de Mila"  
 
 ## 📒 Descrição
 Construção de um E-book, livro infantil com imagens e textos gerados pela IA.  
@@ -32,4 +32,4 @@ Próximo passo será publicar este livro em sites de store books. Alguma indica�
 O desafio foi ótimo para pesquisar e aprender mais sobre as IA`s generativas.  
 O problema maior foi achar o prompt adequado para a resposta que eu precisava.  
 Precisava por exemplo gerar imagens que mantessem uma sincronia com a história e também com as imagens anteriores, preservando a característica do personagem.  
-Com certeza, aprendi muito com este desafio.
+Com certeza, aprendi muito com este desafio!!!
