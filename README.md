@@ -24,7 +24,7 @@ O ultimo passo foi efetuar a diagramação do e-book no Canva.com, no formato de
 Próximo passo será publicar este livro em sites de store books. Alguma indicação?
 
 ## 🚀 Resultados
-[Link para o E-BOOK](/ebook/Os Sapatos Magicos de Mila.pdf)
+[Link para o E-BOOK](https://github.com/jeancalao/labNattyorFake/blob/main/ebook/Os%20Sapatos%20M%C3%A1gicos%20de%20Mila.pdf)
 
 
 ## 💭 Reflexão (Opcional)
