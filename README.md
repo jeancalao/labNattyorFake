@@ -1,9 +1,9 @@
-# E-BOOk Livro Infantil ;)
+# E-BOOk Livro Infantil - "Os Sapataos Mágicos de Mila"  
 
 ## 📒 Descrição
-Construção de um E-book, livro infantil com imagens e textos gerados pela IA.
-Foi utilizado um produto PLR (Private Label Rights) que são conteúdos digitais que permitem que você os revenda como se fossem seus. 
-Essa abordagem oferece uma maneira rápida e fácil de entrar no mercado digital, sem a necessidade de criar produtos do zero. 
+Construção de um E-book, livro infantil com imagens e textos gerados pela IA.  
+Foi utilizado um produto PLR (Private Label Rights) que são conteúdos digitais que permitem que você os revenda como se fossem seus.   
+Essa abordagem oferece uma maneira rápida e fácil de entrar no mercado digital, sem a necessidade de criar produtos do zero.   
 Este produto estava originalmente em inglês, foi utilizada a IA Generativa para efetuar a tradução para o português, e também utilizei IA para geração das imagens do e-book
 O resultado encontra-se na pasta /projeto deste repositório.
 
