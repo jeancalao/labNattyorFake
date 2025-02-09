@@ -8,11 +8,12 @@ Este produto estava originalmente em inglês, foi utilizada a IA Generativa para
 O resultado encontra-se na pasta /projeto deste repositório.
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT - para efetuar a revisão do texto e traduções do Inglês para Português
-Canva.ai - para geração de algumas imagens
-Leonard.ai - para geração de imagens
-CANVA para diagramação do e-book.
-Smodin - detecta conteúdo de IA para verificação de Plágio.
+ChatGPT - para efetuar a revisão do texto e traduções do Inglês para Português  
+Canva.ai - para geração de algumas imagens  
+Leonard.ai - para geração de imagens  
+CANVA para diagramação do e-book.  
+Smodin - detecta conteúdo de IA para verificação de Plágio.  
+
 
 ## 🧐 Processo de Criação
 O primeiro passo foi localizar um produto PLR que atendesse ao que eu gostaria de publicar, nesse caso achei uma história infantil que compilei para o livro "Os Sapatos Mágicos de Milla".
