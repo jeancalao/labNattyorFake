@@ -16,13 +16,13 @@ Smodin - detecta conteúdo de IA para verificação de Plágio.
 
 
 ## 🧐 Processo de Criação
-O primeiro passo foi localizar um produto PLR que atendesse ao que eu gostaria de publicar, nesse caso achei uma história infantil que compilei para o livro "Os Sapatos Mágicos de Milla".
-Efetuei a aquisição de um pacote PLR pelo site plrproducts.com.
-O texto estava em Inglês, como a maioria dos produtos PLR´s então, utilizei o ChatGpt para efetuar a tradução para o português.
-Também utilizei o ChatGPT para utilizar como revisor, tornando o texto mais compreensivo e de leitura fácil para uma criança de 5 anos (ou mais)
-Testei diversas IA´s para geração de imagens, tais como MidJourney, Dalle, Leonard, Canva, Seaart,  Ideogram, entre outars.
-O ultimo passo foi efetuar a diagramação do e-book no Canva.com, no formato desejado.
-Próximo passo será publicar este livro em sites de store books. Alguma indicação?
+O primeiro passo foi localizar um produto PLR que atendesse ao que eu gostaria de publicar, nesse caso achei uma história infantil que compilei para o livro "Os Sapatos Mágicos de Milla".  
+Efetuei a aquisição de um pacote PLR pelo site plrproducts.com.  
+O texto estava em Inglês, como a maioria dos produtos PLR´s então, utilizei o ChatGpt para efetuar a tradução para o português.  
+Também utilizei o ChatGPT para utilizar como revisor, tornando o texto mais compreensivo e de leitura fácil para uma criança de 5 anos (ou mais).  
+Testei diversas IA´s para geração de imagens, tais como MidJourney, Dalle, Leonard, Canva, Seaart,  Ideogram, entre outras.    
+O ultimo passo foi efetuar a diagramação do e-book no Canva.com, no formato desejado.  
+Próximo passo será publicar este livro em sites de store books. Alguma indicação?  
 
 ## 🚀 Resultados
 [Link para o E-BOOK](https://github.com/jeancalao/labNattyorFake/blob/main/ebook/Os%20Sapatos%20M%C3%A1gicos%20de%20Mila.pdf)
